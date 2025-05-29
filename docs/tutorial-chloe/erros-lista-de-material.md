@@ -19,6 +19,8 @@ Umas das coisas que a Chloe utiliza para poder se localizar e a partir do Index.
 ### Solução
 Reextrair a lista corrigida ou adicionar o índice manualmente, atenção para diferenciar entre peças e componentes.
 
+---
+
 ## Error CH02
 
 Material não encontrado.
@@ -32,6 +34,8 @@ Isso ocorre quando não é possível identificar o material porque a célula est
 
 ### Solução
 Reextrair a lista com correção, ou adicionar manualmente o material.
+
+---
 
 ## Error CH03
 
@@ -47,10 +51,12 @@ Isso ocorre quando não é encontrado o Material na base de dados da Chloe, como
 ### Solução
 Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch04">Error CH04</a>.
 
+---
+
 ## Error CH04
 Peso não encontrado.
 
-Isso ocorre quando na coluna da MASSA aparece com célula em branco, como demonstrado na Imagem 04.
+Isso ocorre quando na coluna da **MASSA** aparece com célula em branco, como demonstrado na Imagem 04.
 
 <figure>
     <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img04.png" alt="Imagem 4" />
@@ -59,6 +65,8 @@ Isso ocorre quando na coluna da MASSA aparece com célula em branco, como demons
 
 ### Solução
 Reextrair a lista com correção, ou adicionar manualmente o peso.
+
+---
 
 ## Error CH05
 
@@ -72,7 +80,9 @@ Isso ocorre quando na coluna da massa aparece em Libra invés de Kilograma, como
 </figure>
 
 ### Solução
-Rodar o  Script ArrumaNumeroEUnidadeDaPeca no modelo, e reextrair a lista com correção.
+Rodar o  Script <a href="/docs/tutorial-inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
+
+---
 
 ## Error CH06
 QTDE não encontrado.
@@ -87,6 +97,8 @@ Isso ocorre quando a coluna de QTDE BASE está vazia, como demonstrado na Imagem
 ### Solução
 Reextrair a lista com correção.
 
+---
+
 ## Error CH07
 Componente com Descrição.
 
@@ -99,6 +111,8 @@ Componentes de uma peça devem ser identificados com materiais, como demostrado 
 
 ### Solução
 Depende de cada caso. Às vezes, trata-se apenas de um erro de modelo, como um redondo laminado que não teve o material de estoque atribuído. Em outros casos, são conjuntos de peças inseridas dentro de outras conjuntos de peças, o que pode exigir a modificação de toda a planilha.
+
+---
 
 ## Error CH09
 Peso da Peça não batendo com soma dos Componentes.
@@ -113,6 +127,8 @@ O peso da peça é calculado multiplicando o peso unitário do subcomponente pel
 ### Solução
 Existe diferentes soluções para esse erro, como células em branco, indicadas pelo <a href="#error-ch04">Error CH04</a>, o peso estar em libras, resultando no erro <a href="#error-ch05">Error CH05</a> ou em alguns casos, pode surgir o <a href="#error-ch07">Error CH07</a> que surge modificações feitas na planilha para adaptar que não corrigidas.
 
+---
+
 ## Error CH10
 Peça sem código de projeto.
 
@@ -124,10 +140,12 @@ Isso ocorre em dois casos, quando é reutilizado peças de um projeto anterior, 
 </figure>
 
 ### Solução 01
-Rodar o  Script ArrumaNumeroEUnidadeDaPeca no modelo, e reextrair a lista com correção.
+Rodar o  Script <a href="/docs/tutorial-inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
 
 ### Solução 02
 Se for um modelo de outro projeto, será necessário renomear os arquivos.
+
+---
 
 ## Error CH11
 Elemento não cadastrado.
@@ -140,7 +158,9 @@ Ocorre quando a Chloe recebe um tipo Elemento/Material que ela ainda não tenha 
 </figure>
 
 ### Solução
-Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais com elemento não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch14">Error CH04</a>.
+Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais com elemento não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch14">Error CH14</a>.
+
+---
 
 ## Error CH12
 Peso com Varia.
@@ -153,7 +173,9 @@ Quando o Inventor extrai uma lista, ele tenta simplificar com base no número da
 </figure>
 
 ### Solução
-Rodar o Script ArrumaNumeroEUnidadeDaPeca no modelo, e reextrair a lista com correção.
+Rodar o Script <a href="/docs/tutorial-inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
+
+---
 
 ## Error CH13
 Divergência no arredondamento do peso entre peças e a lista de material.
@@ -171,6 +193,8 @@ Adicione ou remova peso do material com a maior peso, a fim de alcançar o pesos
 ### Solução 02
 Se houver uma discrepância muito grande, é necessário revisar a lista para identificar um possível erro.
 
+---
+
 ## Error CH14
 Não foi possível calcular a quantidade do material.
 
@@ -183,6 +207,8 @@ Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso cor
 
 ### Solução
 Se o item for comercial, será necessário inserir manualmente a quantidade correspondente. Caso ocorram os erros Error CH03 ou Error CH11, será preciso fazer o cálculo manual para corrigir a situação.
+
+---
 
 ## Alerta CL01
 Material diferente de Aço Carbono.

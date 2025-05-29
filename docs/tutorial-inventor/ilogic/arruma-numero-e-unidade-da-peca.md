@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# ArrumaNumeroEUnidadeDaPeca
+# 🔢🛠️ ArrumaNumeroEUnidadeDaPeca
 
 ## Explicação
 Passará por cada componente, verificando se o número da peça está igual nome do arquivo, atualizará comprimento para milímetro e a massa para kilograma, como demostrado na Imagem 01 e Imagem 02.

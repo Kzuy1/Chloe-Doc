@@ -2,4 +2,4 @@
 sidebar-position: 1
 ---
 
-# AtualizaCodigoLegenda
+# 🔄 AtualizaCodigoLegenda
