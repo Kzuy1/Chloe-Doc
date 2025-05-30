@@ -49,7 +49,7 @@ Isso ocorre quando não é encontrado o Material na base de dados da Chloe, como
 </figure>
 
 ### Solução
-Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch04">Error CH04</a>.
+Prosseguir para próximas etapas, apenas atentar que Chloe na lista de material vai colocar esses matériais não cadastrado como ultimo da lista, e informar NULL e o <a href="#error-ch14">Error CH14</a>.
 
 ---
 
@@ -206,7 +206,7 @@ Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso cor
 </figure>
 
 ### Solução
-Se o item for comercial, será necessário inserir manualmente a quantidade correspondente. Caso ocorram os erros Error CH03 ou Error CH11, será preciso fazer o cálculo manual para corrigir a situação.
+Se o item for comercial, será necessário inserir manualmente a quantidade correspondente. Caso ocorram os erros <a href="#error-ch03">Error CH03</a> ou <a href="#error-ch11">Error CH11</a>, será preciso fazer o cálculo manual para corrigir a situação.
 
 ---
 
