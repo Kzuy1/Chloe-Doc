@@ -131,6 +131,16 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    
+    plugins: [
+  [
+    'docusaurus-lunr-search',
+    {
+      languages: ['pt'], // Coloque 'pt' se sua doc é em português
+    },
+  ],
+],
+
 };
 
 export default config;
