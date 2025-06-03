@@ -1,9 +1,10 @@
 {
-  "label": "Chloe",
+  "label": "🤖 Chloe",
   "position": 1,
   "link": {
     "type": "generated-index",
     "title": "🤖 Chloe",
-    "description": "Tudo que precisa saber para usar a Chloe!"
+    "description": "Tudo que precisa saber para usar a Chloe!",
+    "slug": "/chloe"
   }
 }

@@ -1,8 +1,9 @@
 {
-  "label": "Inventor",
+  "label": "🛠️ Inventor",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "title": "🛠️ Inventor"
+    "title": "🛠️ Inventor",
+    "slug": "/inventor"
   }
 }

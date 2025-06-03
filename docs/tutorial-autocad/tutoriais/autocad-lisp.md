@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 💻 AutoCAD Lisp
+# AutoCAD Lisp
 
 ## 1 - Como adicionar um comando LISP?
 

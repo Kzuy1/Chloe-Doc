@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🖨️ Como Plotar
+# Como Plotar
 
 ## 1 - Configuração dos Estilos de Plotagem
 

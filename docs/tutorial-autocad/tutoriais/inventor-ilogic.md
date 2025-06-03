@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ⚙️ Inventor ILogic
+# Inventor ILogic
 
 ## 1 - Como adicionar códigos no ILogic?
 

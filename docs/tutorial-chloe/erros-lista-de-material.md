@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # 📋 Erros Lista de Material
-### Todos os Erros que a Chloe pode encontrar na Lista de Material.
+<h3>Todos os Erros que a Chloe pode encontrar na Lista de Material.</h3>
 
 ## Error CH01
 

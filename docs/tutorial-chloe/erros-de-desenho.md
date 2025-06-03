@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # 🚨 Erros de Desenho
-### Todos os Erros que a Chloe pode encontrar.
+<h3>Todos os Erros que a Chloe pode encontrar.</h3>
 
 ## Error ED01
 O nome arquivo não está separado corretamente.

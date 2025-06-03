@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ✍️ Detalhamento
+# Detalhamento
 
 ## 1 - Regra para retirar Detalhe/Corte
 

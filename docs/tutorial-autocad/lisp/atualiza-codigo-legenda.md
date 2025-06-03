@@ -2,7 +2,7 @@
 sidebar-position: 1
 ---
 
-# 🔄 AtualizaCodigoLegenda
+# AtualizaCodigoLegenda
 
 ## Explicação
 Este Lisp pega o código do desenho a partir do nome do arquivo e insere no bloco de legenda de um desenho técnico.
