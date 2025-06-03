@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
 
-# 📤 Como Extrair Atributos de Blocos?
+# Como Extrair Atributos de Blocos?
 
 ## Informações:
 - Este tutorial é aplicável tanto ao AutoCAD quanto ao AutoCAD LT;
