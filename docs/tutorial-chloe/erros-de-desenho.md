@@ -11,8 +11,8 @@ O nome arquivo não está separado corretamente.
 Os códigos de desenho são separados  por traços (-) e sublinhados (_), conforme demonstrado na Imagem 01.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img01.png" alt="Imagem 1" />
-    <figcaption>Imagem 1</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img01.png" alt="Imagem 01" />
+    <figcaption>Imagem 01</figcaption>
 </figure>
 
 ### Solução
@@ -26,8 +26,8 @@ Bloco de Legenda está com código errado.
 Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no Nome do Arquivo. Os códigos mostrados são 1FN2_FN-08-01, mas o correto é 1FN3_FN-A7-01.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img02.png" alt="Imagem 2" />
-    <figcaption>Imagem 2</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img02.png" alt="Imagem 02" />
+    <figcaption>Imagem 02</figcaption>
 </figure>
 
 ### Solução
@@ -41,8 +41,8 @@ Bloco de Legenda está com escala errado.
 O Bloco de Legenda apresenta uma discrepância entre a escala exibida e a escala do atributo do bloco, conforme demonstrado na Imagem 03.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img03.png" alt="Imagem 3" />
-    <figcaption>Imagem 3</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img03.png" alt="Imagem 03" />
+    <figcaption>Imagem 03</figcaption>
 </figure>
 
 ### Solução
@@ -60,8 +60,8 @@ O Bloco de Legenda geralmente fica com :
 > **APPROVED:** Sem nada ou em Branco
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img04.png" alt="Imagem 4" />
-    <figcaption>Imagem 4</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img04.png" alt="Imagem 04" />
+    <figcaption>Imagem 04</figcaption>
 </figure>
 
 ### Solução
@@ -80,8 +80,8 @@ Ocorre quando a configuração de LTScale (escala de tipo de linha) não está d
 Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demonstrado na Imagem 05.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img05.png" alt="Imagem 5" />
-    <figcaption>Imagem 5</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img05.png" alt="Imagem 05" />
+    <figcaption>Imagem 05</figcaption>
 </figure>
 
 ---
@@ -95,16 +95,16 @@ Na versão R16, existia uma camada chamada **"CONTOUR EXI"** utilizada para indi
 Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Camadas"** para mostrar todas as camadas presentes no desenho. Ao selecionar a camada **"CONTOUR EXI"**, serão exibidos todos os objetos associados a ela. Selecione esses objetos e mude para a camada **"ESISTENTE"**. Conforme demonstrado na Imagem 06.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img06.png" alt="Imagem 6" />
-    <figcaption>Imagem 6</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img06.png" alt="Imagem 06" />
+    <figcaption>Imagem 06</figcaption>
 </figure>
 
 ### Solução 02
 Seguindo a <a href="#solução-01">solução anterior</a>, caso você tenha algum objeto em **"CONTOUR EXI"** dentro de um bloco, você pode copiar o nome do bloco e ao digitar o comando **"INSERIR"** abrirá uma janela mostrando todos os blocos. Selecione a aba **"Desenho Atual"** e cole o nome do bloco no campo de pesquisa que foi copiado anteriormente. Ao selecionar o bloco, é possível adicioná-lo ao desenho e ajustar o bloco para remover a layer **"CONTOUR EXI"**, conforme mostrado na Imagem 07.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img07.png" alt="Imagem 7" />
-    <figcaption>Imagem 7</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img07.png" alt="Imagem 07" />
+    <figcaption>Imagem 07</figcaption>
 </figure>
 
 ---
@@ -118,8 +118,8 @@ A Linha de Chamada diferente das Cotas porque, ao contrário destas, não é aut
 Digite o comando **"Eliminar / Purge"**, existe uma aba chamada **"Itens que não podem ser eliminados"**. Dentro dessa aba, há uma árvore de nós onde podemos expandir o nó  de **"Estilos de cota"** para mostrar todas os estilo de cota presentes no desenho. Ao selecionar a camada qualquer estilo, serão exibidos todos os objetos associados a ela. Selecione as Linhas de Chamadas que estão fora da camada **"QUOTE"**.  Conforme demonstrado na Imagem 08.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img08.png" alt="Imagem 8" />
-    <figcaption>Imagem 8</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img08.png" alt="Imagem 08" />
+    <figcaption>Imagem 08</figcaption>
 </figure>
 
 ---
@@ -130,8 +130,8 @@ Deve ter apenas um Bloco de Legenda no mesmo desenho.
 Não enviar desenhos como indicado na Imagem 09, a Chloe utiliza os Blocos de Legenda para determinar certas informações para realizar outras verificações.
 
 <figure>
-    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img09.png" alt="Imagem 9" />
-    <figcaption>Imagem 9</figcaption>
+    <img src="/img/chloe/erros-de-desenho/img_chloe_erros-de-desenho_img09.png" alt="Imagem 09" />
+    <figcaption>Imagem 09</figcaption>
 </figure>
 
 ### Solução

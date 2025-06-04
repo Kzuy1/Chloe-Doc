@@ -12,8 +12,8 @@ Index vazio.
 Umas das coisas que a Chloe utiliza para poder se localizar e a partir do Index. Quando se tem um por exemplo 2.1, 2.2, 2.3. Isso é componentes de uma peça de Index 2, como demonstrado na Imagem 01.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img01.png" alt="Imagem 1" />
-    <figcaption>Imagem 1</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img01.png" alt="Imagem 01" />
+    <figcaption>Imagem 01</figcaption>
 </figure>
 
 ### Solução
@@ -28,8 +28,8 @@ Material não encontrado.
 Isso ocorre quando não é possível identificar o material porque a célula está em branco, como demonstrado na Imagem 02.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img02.png" alt="Imagem 2" />
-    <figcaption>Imagem 2</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img02.png" alt="Imagem 02" />
+    <figcaption>Imagem 02</figcaption>
 </figure>
 
 ### Solução
@@ -44,8 +44,8 @@ Matérial não cadastrado.
 Isso ocorre quando não é encontrado o Material na base de dados da Chloe, como demonstrado na Imagem 03.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img03.png" alt="Imagem 3" />
-    <figcaption>Imagem 3</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img03.png" alt="Imagem 03" />
+    <figcaption>Imagem 03</figcaption>
 </figure>
 
 ### Solução
@@ -59,8 +59,8 @@ Peso não encontrado.
 Isso ocorre quando na coluna da **MASSA** aparece com célula em branco, como demonstrado na Imagem 04.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img04.png" alt="Imagem 4" />
-    <figcaption>Imagem 4</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img04.png" alt="Imagem 04" />
+    <figcaption>Imagem 04</figcaption>
 </figure>
 
 ### Solução
@@ -75,8 +75,8 @@ Massa com Libra.
 Isso ocorre quando na coluna da massa aparece em Libra invés de Kilograma, como demonstrado na Imagem 05.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img05.png" alt="Imagem 4" />
-    <figcaption>Imagem 5</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img05.png" alt="Imagem 04" />
+    <figcaption>Imagem 05</figcaption>
 </figure>
 
 ### Solução
@@ -90,8 +90,8 @@ QTDE não encontrado.
 Isso ocorre quando a coluna de QTDE BASE está vazia, como demonstrado na Imagem 06.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img06.png" alt="Imagem 6" />
-    <figcaption>Imagem 6</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img06.png" alt="Imagem 06" />
+    <figcaption>Imagem 06</figcaption>
 </figure>
 
 ### Solução
@@ -105,8 +105,8 @@ Componente com Descrição.
 Componentes de uma peça devem ser identificados com materiais, como demostrado na Imagem 07.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img07.png" alt="Imagem 7" />
-    <figcaption>Imagem 7</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img07.png" alt="Imagem 07" />
+    <figcaption>Imagem 07</figcaption>
 </figure>
 
 ### Solução
@@ -120,8 +120,8 @@ Peso da Peça não batendo com soma dos Componentes.
 O peso da peça é calculado multiplicando o peso unitário do subcomponente pela quantidade, resultando no peso total da peça. Na Imagem 08, podemos observar que o item 2.5 está com o peso unitário incorreto, o que impacta o cálculo final.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img08.png" alt="Imagem 8" />
-    <figcaption>Imagem 8</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img08.png" alt="Imagem 08" />
+    <figcaption>Imagem 08</figcaption>
 </figure>
 
 ### Solução
@@ -135,8 +135,8 @@ Peça sem código de projeto.
 Isso ocorre em dois casos, quando é reutilizado peças de um projeto anterior, e exportado com códigos sem alteração. Em outros casos foi algum problema no modelo como na Imagem 09.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img09.png" alt="Imagem 9" />
-    <figcaption>Imagem 9</figcaption>
+    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img09.png" alt="Imagem 09" />
+    <figcaption>Imagem 09</figcaption>
 </figure>
 
 ### Solução 01

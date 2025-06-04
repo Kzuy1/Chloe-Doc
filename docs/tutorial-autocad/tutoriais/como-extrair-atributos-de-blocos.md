@@ -12,40 +12,40 @@ sidebar_position: 2
 Digite o comando **"EXTRATRIB / ATTEXT"** na barra de comando e pressione **"Enter"**, como demonstrado na Imagem 01.
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img01.png" alt="Imagem 1" />
-    <figcaption>Imagem 1</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img01.png" alt="Imagem 01" />
+    <figcaption>Imagem 01</figcaption>
 </figure>
 
 ## Passo 02
 Ao acessar a aba denominada **"Extração de Atributos"**, no canto superior esquerdo dessa aba selecione a opção **"Arquivo delimitado por vírgulas (CDF)"**, como demonstrado na Imagem 02.
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img02.png" alt="Imagem 2" />
-    <figcaption>Imagem 2</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img02.png" alt="Imagem 02" />
+    <figcaption>Imagem 02</figcaption>
 </figure>
 
 ## Passo 03
 Clique no botão **"Selecionar objetos"**, localizado à esquerda, na parte central, como desmonstrado na Imagem 03.
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img03.png" alt="Imagem 3" />
-    <figcaption>Imagem 3</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img03.png" alt="Imagem 03" />
+    <figcaption>Imagem 03</figcaption>
 </figure>
 
 ## Passo 04
 Selecione os Blocos Brancos, Bloco de Parafuso ou Bloco de Material que deseja como mostrado na Imagem 04.
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img04.png" alt="Imagem 4" />
-    <figcaption>Imagem 4</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img04.png" alt="Imagem 04" />
+    <figcaption>Imagem 04</figcaption>
 </figure>
 
 ## Passo 05
 Clique no botão **"Template de arquivo"**, localizado à esquerda, na parte central, como desmonstrado na Imagem 05.
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img05.png" alt="Imagem 5" />
-    <figcaption>Imagem 5</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img05.png" alt="Imagem 05" />
+    <figcaption>Imagem 05</figcaption>
 </figure>
 
 ## Passo 06
@@ -56,8 +56,8 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\EX
 ```
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img06.png" alt="Imagem 6" />
-    <figcaption>Imagem 6</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img06.png" alt="Imagem 06" />
+    <figcaption>Imagem 06</figcaption>
 </figure>
 
 ## Passo 07
@@ -73,16 +73,16 @@ Abaixo, você verá qual configuração de extração se aplica a qual bloco e o
 | CONFIG EXTRAÇÃO - MATERIAL      | Bloco de Material          | Posição, Descrição, Unidade, Quantidade, Material e Peso |
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img07.png" alt="Imagem 7" />
-    <figcaption>Imagem 7</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img07.png" alt="Imagem 07" />
+    <figcaption>Imagem 07</figcaption>
 </figure>
 
 ## Passo 08
 Clique no botão **"Arquivo de saída"**, localizado à esquerda na parte central, como desmonstrado na Imagem 08.
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img08.png" alt="Imagem 8" />
-    <figcaption>Imagem 8</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img08.png" alt="Imagem 08" />
+    <figcaption>Imagem 08</figcaption>
 </figure>
 
 ## Passo 09
@@ -91,8 +91,8 @@ Uma aba chamada **"Arquivo de Saída"** será aberta. Clique na opção **"Área
 Se você não definir um caminho de saída, o arquivo será salvo na mesma pasta onde o desenho está localizado
 
 <figure>
-    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img09.png" alt="Imagem 9" />
-    <figcaption>Imagem 9</figcaption>
+    <img src="/img/autocad/como-extrair-atributos-de-blocos/img_autocad_como-extrair-atributos-de-blocos_img09.png" alt="Imagem 09" />
+    <figcaption>Imagem 09</figcaption>
 </figure>
 
 ## Passo 10
