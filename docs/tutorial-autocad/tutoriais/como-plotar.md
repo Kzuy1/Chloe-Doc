@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ## Configuração dos Estilos de Plotagem
 
-## Passo 1
+## Passo 01
 Clique ao ícone do DWG True Viewer ou do AutoCAD localizado no canto superior esquerdo da tela. Em seguida, clique nas opções como indicado na Imagem 01.
 
 <figure>
@@ -18,7 +18,7 @@ Clique ao ícone do DWG True Viewer ou do AutoCAD localizado no canto superior e
     <figcaption>Imagem 01</figcaption>
 </figure>
 
-## Passo 2
+## Passo 02
 Abra a opção **`Caminho do arquivo de suporte à impressora`**, e seguida **`Caminho de pesquisa da tabela de estilos de plotagem`**. Essas opções estão destacadas na Imagem 02.
 
 <figure>
@@ -26,7 +26,7 @@ Abra a opção **`Caminho do arquivo de suporte à impressora`**, e seguida **`C
     <figcaption>Imagem 02</figcaption>
 </figure>
 
-## Passo 3
+## Passo 03
 Selecione o caminho, e clique em remover, assim como na Imagem 03.
 
 <figure>
@@ -34,7 +34,7 @@ Selecione o caminho, e clique em remover, assim como na Imagem 03.
     <figcaption>Imagem 03</figcaption>
 </figure>
 
-## Passo 4
+## Passo 04
 Após a remoção adicione o seguinte link no campo indicado na Imagem 04.
 
 ```
@@ -46,7 +46,7 @@ L:\Drives compartilhados\EMB_ENGENHARIA_BIBLIOTECA\PADRÕES PROGRAMAS\AUTOCAD\PA
     <figcaption>Imagem 04</figcaption>
 </figure>
 
-## Passo 5
+## Passo 05
 Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Imagem 05 no canto inferior direito.
 
 <figure>
@@ -56,7 +56,7 @@ Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Im
  
  ## Como realizar uma plotagem
 
- ## Passo 1
+ ## Passo 01
  Clique ao ícone da Impressora localizado no canto superior esquerdo da tela., como mostra na Imagem 06.
 
 <figure>
@@ -64,7 +64,7 @@ Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Im
     <figcaption>Imagem 06</figcaption>
 </figure>
 
-## Passo 2
+## Passo 02
 Dentro da seção de Impressora/Plotadora, você pode escolher caso queira o PDF ou Imprimir direto na impressora. Neste tutorial, vamos prosseguir com PDF, para isso utilizamos o **`AutoCAD PDF (High Quality Print).pc3`**, note essa opção na Imagem 07.
 
 <figure>
@@ -72,7 +72,7 @@ Dentro da seção de Impressora/Plotadora, você pode escolher caso queira o PDF
     <figcaption>Imagem 07</figcaption>
 </figure>
 
-## Passo 3
+## Passo 03
 Dentro da seção **`Tamanho do Papel`** é possível selecionar o tamanho do papel. Observe a seção na Imagem 08.
 
 É possível ver o tamanho do Formato no próprio desenho no canto inferior direito, próximo a Legenda.
@@ -87,7 +87,7 @@ Dentro da seção **`Tamanho do Papel`** é possível selecionar o tamanho do pa
     <figcaption>Imagem 09</figcaption>
 </figure>
 
-## Passo 4
+## Passo 04
 Dentro da Área de Plotagem, selecione a Janela e, após, clique no botão, como na Imagem 10.
 
 <figure>
@@ -95,7 +95,7 @@ Dentro da Área de Plotagem, selecione a Janela e, após, clique no botão, como
     <figcaption>Imagem 10</figcaption>
 </figure>
 
-## Passo 5
+## Passo 05
 Vai abrir uma janela para você poder selecionar a parte do desenho, como mostra a Imagem 11.
 
 <figure>
@@ -103,7 +103,7 @@ Vai abrir uma janela para você poder selecionar a parte do desenho, como mostra
     <figcaption>Imagem 11</figcaption>
 </figure>
 
-## Passo 6
+## Passo 06
 A opção de **``Centralizar plotagem``** precisa estar selecionada. Observe a Imagem 12.
 
 <figure>
@@ -111,7 +111,7 @@ A opção de **``Centralizar plotagem``** precisa estar selecionada. Observe a I
     <figcaption>Imagem 12</figcaption>
 </figure>
 
-## Passo 7
+## Passo 07
 Dependendo do formato do papel escolhido, siga estas instruções e a Imagem 13:
 
 - **Para formato A0 com ajuste de escala:**
@@ -127,7 +127,7 @@ Caso esteja lidando com o formato A1, verifique se a opção Ajustar ao Papel es
     <figcaption>Imagem 13</figcaption>
 </figure>
 
-## Passo 8
+## Passo 08
 Na opção **``Tabela Estilos de Plotagem``** (Imagem 14) é possível selecionar como deseja. 
 
 Monochrome.ctb - Preto e Branco  
@@ -141,7 +141,7 @@ Recomendação: Caso queira imprimir colorido utilize o REDECAM-FABRICAÇÃO, po
     <figcaption>Imagem 14</figcaption>
 </figure>
 
-## Passo 9
+## Passo 09
 Após todas as configurações aplicadas. Clique em **``Ok``**, e em **``Continuar``**, como indica a Imagem 15.
 
 <figure>

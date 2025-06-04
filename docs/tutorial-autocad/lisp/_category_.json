@@ -3,6 +3,7 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "title": "⚙️ Lisp"
+    "title": "⚙️ Lisp",
+    "slug": "/lisp"
   }
 }
