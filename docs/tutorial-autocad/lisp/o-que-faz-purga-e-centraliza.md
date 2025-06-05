@@ -11,11 +11,11 @@ Esse script automatiza **Purga** tudo que está no desenho, e centraliza a vista
 - Comando: **PurgaECentraliza**
 
 <figure>
-    <img src="/img/autocad/tutoriais/autocad-lisp/img_autocad_tutoriais_autocad-lisp_img09.png" alt="Imagem 01" />
+    <img src="/img/autocad/lisp/o-que-faz-purga-e-centraliza/img01.png" alt="Imagem 01" />
     <figcaption>Imagem 01</figcaption>
 </figure>
 
 <figure>
-    <img src="/img/autocad/tutoriais/autocad-lisp/img_autocad_tutoriais_autocad-lisp_img10.png" alt="Imagem 02" />
+    <img src="/img/autocad/lisp/o-que-faz-purga-e-centraliza/img02.png" alt="Imagem 02" />
     <figcaption>Imagem 02</figcaption>
 </figure>

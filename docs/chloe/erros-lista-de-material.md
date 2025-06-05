@@ -135,7 +135,7 @@ Peça sem código de projeto.
 Isso ocorre em dois casos, quando é reutilizado peças de um projeto anterior, e exportado com códigos sem alteração. Em outros casos foi algum problema no modelo como na Imagem 09.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img09.png" alt="Imagem 09" />
+    <img src="/img/chloe/erros-de-lista/img09.png" alt="Imagem 09" />
     <figcaption>Imagem 09</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ Elemento não cadastrado.
 Ocorre quando a Chloe recebe um tipo Elemento/Material que ela ainda não tenha cadastrado em seu Banco de Dados, como exemplo a Imagem 10 com células destacas em laranja.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img10.png" alt="Imagem 10" />
+    <img src="/img/chloe/erros-de-lista/img10.png" alt="Imagem 10" />
     <figcaption>Imagem 10</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Peso com Varia.
 Quando o Inventor extrai uma lista, ele tenta simplificar com base no número da peça. No entanto, no caso da Imagem 11, mesmo que o código seja o mesmo, há algumas diferenças, como a presença de furos, o que resulta *Varia* no peso.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img11.png" alt="Imagem 11" />
+    <img src="/img/chloe/erros-de-lista/img11.png" alt="Imagem 11" />
     <figcaption>Imagem 11</figcaption>
 </figure>
 
@@ -183,7 +183,7 @@ Divergência no arredondamento do peso entre peças e a lista de material.
 A soma dos pesos das peças tem que ser igual à da lista de materiais. Em caso de divergência, a aba da planilha será destacada em vermelho, como desmostrado na Imagem 12.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img12.png" alt="Imagem 12" />
+    <img src="/img/chloe/erros-de-lista/img12.png" alt="Imagem 12" />
     <figcaption>Imagem 12</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ Não foi possível calcular a quantidade do material.
 Este erro ocorre quando a Chloe tenta calcular a quantidade a partir do Peso correspondente, mas não consegue devido à ausência de alguma informação, a celula será pintada azul e escrito NULL, como demostrado na Imagem 13.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img13.png" alt="Imagem 13" />
+    <img src="/img/chloe/erros-de-lista/img13.png" alt="Imagem 13" />
     <figcaption>Imagem 13</figcaption>
 </figure>
 
@@ -216,6 +216,6 @@ Material diferente de Aço Carbono.
 O padrão a ser utilizado é S235JR ou ASTM-A36. E quando aparecer esse Alerta, é um indicativo de que algo incomum está ocorrendo. Por exemplo, já houve um caso em que um guarda-corpo foi enviado inteiramente em Inox AISI 304L, conforme mostrado na Imagem 14.
 
 <figure>
-    <img src="/img/chloe/erros-de-lista/img_chloe_erros-de-lista_img14.png" alt="Imagem 14" />
+    <img src="/img/chloe/erros-de-lista/img14.png" alt="Imagem 14" />
     <figcaption>Imagem 14</figcaption>
 </figure>
