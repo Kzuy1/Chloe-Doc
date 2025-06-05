@@ -8,11 +8,11 @@ sidebar_position: 4
 O script percorre cada componente, verificando se o número da peça está igual ao nome do arquivo. Além disso, atualiza o comprimento para milímetros e a massa para quilogramas.
 
 <figure>
-    <img src="/img/autocad/tutoriais/inventor-ilogic/img_autocad_tutoriais_inventor-ilogic_img18.png" alt="Imagem 18" />
-    <figcaption>Imagem 18</figcaption>
+    <img src="/img/inventor/ilogic/arruma-numero-e-unidade-da-peca/inventor_ilogic_arrumanumeroeunidadedapeca_img01.png" alt="Imagem 01" />
+    <figcaption>Imagem 01</figcaption>
 </figure>
 
 <figure>
-    <img src="/img/autocad/tutoriais/inventor-ilogic/img_autocad_tutoriais_inventor-ilogic_img19.png" alt="Imagem 19" />
-    <figcaption>Imagem 19</figcaption>
+    <img src="/img/inventor/ilogic/arruma-numero-e-unidade-da-peca/inventor_ilogic_arrumanumeroeunidadedapeca_img02.png" alt="Imagem 02" />
+    <figcaption>Imagem 02</figcaption>
 </figure>
