@@ -80,7 +80,7 @@ Isso ocorre quando na coluna da massa aparece em Libra invés de Kilograma, como
 </figure>
 
 ### Solução
-Rodar o  Script <a href="/docs/tutorial-inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
+Rodar o  Script <a href="/docs/inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
 
 ---
 
@@ -140,7 +140,7 @@ Isso ocorre em dois casos, quando é reutilizado peças de um projeto anterior, 
 </figure>
 
 ### Solução 01
-Rodar o  Script <a href="/docs/tutorial-inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
+Rodar o  Script <a href="/docs/inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
 
 ### Solução 02
 Se for um modelo de outro projeto, será necessário renomear os arquivos.
@@ -173,7 +173,7 @@ Quando o Inventor extrai uma lista, ele tenta simplificar com base no número da
 </figure>
 
 ### Solução
-Rodar o Script <a href="/docs/tutorial-inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
+Rodar o Script <a href="/docs/inventor/ilogic/arruma-numero-e-unidade-da-peca#explicação">ArrumaNumeroEUnidadeDaPeca</a> no modelo, e reextrair a lista com correção.
 
 ---
 

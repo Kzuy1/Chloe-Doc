@@ -31,7 +31,7 @@ Na Imagem 02, o Bloco de Legenda apresenta um código diferente do que está no 
 </figure>
 
 ### Solução
-Utilize o Lisp <a href="/docs/tutorial-autocad/lisp/atualiza-codigo-legenda">AtualizarCodigoLegenda</a> para atualizar os códigos do Bloco de Legenda.
+Utilize o Lisp <a href="/docs/autocad/lisp/atualiza-codigo-legenda">AtualizarCodigoLegenda</a> para atualizar os códigos do Bloco de Legenda.
 
 ---
 
@@ -74,7 +74,7 @@ LTScale está diferente da metade da Escala do Desenho.
 
 Ocorre quando a configuração de LTScale (escala de tipo de linha) não está de acordo com a escala do desenho.
 
-<a href="/docs/tutorial-autocad/lt-scale">O que é LTScale é como ele funciona?</a>
+<a href="/docs/autocad/lt-scale">O que é LTScale é como ele funciona?</a>
 
 ### Solução
 Ajustar o valor do LTScale para ser a metade da escala do desenho, conforme demonstrado na Imagem 05.
@@ -210,7 +210,7 @@ Ao copiar peças extraídas do Inventor para o AutoCAD, se o desenho não possui
 </figure>
 
 ### Solução
-<a href="/docs/tutorial-autocad/tutoriais/como-configurar-camada">Seguir o tutorial para Como Configurar Camada.</a>
+<a href="/docs/autocad/tutoriais/como-configurar-camada">Seguir o tutorial para Como Configurar Camada.</a>
 
 ---
 
@@ -245,7 +245,7 @@ A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por e
 </figure>
 
 ### Solução
-<a href="/docs/tutorial-autocad/tutoriais/como-extrair-atributos-de-blocos">Como extrair atributos de blocos para verificação?</a>
+<a href="/docs/autocad/tutoriais/como-extrair-atributos-de-blocos">Como extrair atributos de blocos para verificação?</a>
 
 ---
 
@@ -280,7 +280,7 @@ Nota com Código de Identificação das peças deve ter o mesmo Código do Desen
 </figure>
 
 ### Solução
-Utilizar o código Lisp <a href="/docs/tutorial-autocad/lisp/atualiza-codigo-legenda">AtualizaCodigoLegenda para arrumar Codigo de Identificação</a>
+Utilizar o código Lisp <a href="/docs/autocad/lisp/atualiza-codigo-legenda">AtualizaCodigoLegenda para arrumar Codigo de Identificação</a>
 
 ## Error ED19
 Fator de Largura do atributo Marca no Bloco de Peça diferente de 0,7.
@@ -308,7 +308,7 @@ A soma dos blocos de peças deve coincidir com o peso total aproximado na nota. 
 </figure>
 
 ## Solução
-<a href="/docs/tutorial-autocad/tutoriais/como-extrair-atributos-de-blocos">Como extrair atributos dos blocos para verificar a soma?</a>
+<a href="/docs/autocad/tutoriais/como-extrair-atributos-de-blocos">Como extrair atributos dos blocos para verificar a soma?</a>
 
 ---
 
