@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Como Plotar
+# Como Plotar?
 
 ## Informações:
 - Este tutorial é aplicável tanto ao AutoCAD quanto ao AutoCAD LT;
@@ -54,7 +54,7 @@ Clique em aplicar, e reinecie o DWG True Viewer ou AutoCAD, conforme indica a Im
     <figcaption>Imagem 05</figcaption>
 </figure>
  
- ## Como realizar uma plotagem
+ ## Como Realizar uma Plotagem
 
  ## Passo 01
  Clique ao ícone da Impressora localizado no canto superior esquerdo da tela., como mostra na Imagem 06.
@@ -114,13 +114,15 @@ A opção de **``Centralizar plotagem``** precisa estar selecionada. Observe a I
 ## Passo 07
 Dependendo do formato do papel escolhido, siga estas instruções e a Imagem 13:
 
+### 07.1
 - **Para formato A0 com ajuste de escala:**
 
 Se você estiver trabalhando com o formato A0, será necessário ajustar a escala para garantir que o desenho seja impresso de forma adequada. Certifique-se de acessar a **``Escala de Plotagem``** e depois desmarcar o **``Ajuste ao Papel``**, e realizar a correção.
 
-- **Para formato A1 com opção de Ajustar ao Papel:**
+ ### 07.2
+ - **Para formato A1 com opção de Ajustar ao Papel:**
 
-Caso esteja lidando com o formato A1, verifique se a opção Ajustar ao Papel está marcada. Isso garantirá que o desenho seja ajustado automaticamente para se adequar ao tamanho do papel selecionado.
+Caso esteja lidando com o formato A1, verifique se a opção **``Ajustar ao Papel``** está marcada. Isso garantirá que o desenho seja ajustado automaticamente para se adequar ao tamanho do papel selecionado.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-plotar/img13.png" alt="Imagem 13" />
@@ -150,7 +152,7 @@ Após todas as configurações aplicadas. Clique em **``Ok``**, e em **``Continu
 </figure>
 
 ## Passo 10
-Selecione um caminho para salvar seu arquivo, como mostra a Imagem 16.
+Selecione um caminho para salvar seu arquivo, como mostra a Imagem 16, e clique em **``Salvar``**.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-plotar/img16.png" alt="Imagem 16" />
