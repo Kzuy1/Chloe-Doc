@@ -210,7 +210,7 @@ Ao copiar peças extraídas do Inventor para o AutoCAD, se o desenho não possui
 </figure>
 
 ### Solução
-<a href="/docs/tutorial-autocad/configurando-layers">Seguir o tutorial para Configurar Layers corretamente.</a>
+<a href="/docs/tutorial-autocad/tutoriais/como-configurar-camada">Seguir o tutorial para Como Configurar Camada.</a>
 
 ---
 
@@ -245,7 +245,7 @@ A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por e
 </figure>
 
 ### Solução
-<a href="/docs/tutorial-autocad/como-extrair-atributos-de-blocos">Como extrair atributos de blocos para verificação?</a>
+<a href="/docs/tutorial-autocad/tutoriais/como-extrair-atributos-de-blocos">Como extrair atributos de blocos para verificação?</a>
 
 ---
 
@@ -308,7 +308,7 @@ A soma dos blocos de peças deve coincidir com o peso total aproximado na nota. 
 </figure>
 
 ## Solução
-<a href="/docs/tutorial-autocad/como-extrair-atributos-de-blocos">Como extrair atributos dos blocos para verificar a soma?</a>
+<a href="/docs/tutorial-autocad/tutoriais/como-extrair-atributos-de-blocos">Como extrair atributos dos blocos para verificar a soma?</a>
 
 ---
 
