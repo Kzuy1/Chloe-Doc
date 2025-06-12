@@ -114,15 +114,13 @@ A opção de **``Centralizar plotagem``** precisa estar selecionada. Observe a I
 ## Passo 07
 Dependendo do formato do papel escolhido, siga estas instruções e a Imagem 13:
 
-### 07.1
 - **Para formato A0 com ajuste de escala:**
 
-Se você estiver trabalhando com o formato A0, será necessário ajustar a escala para garantir que o desenho seja impresso de forma adequada. Certifique-se de acessar a **``Escala de Plotagem``** e depois desmarcar o **``Ajuste ao Papel``**, e realizar a correção.
+    - Se você estiver trabalhando com o formato A0, será necessário ajustar a escala para garantir que o desenho seja impresso de forma adequada. Certifique-se de acessar a **``Escala de Plotagem``** e depois desmarcar o **``Ajuste ao Papel``**, e realizar a correção.
 
- ### 07.2
  - **Para formato A1 com opção de Ajustar ao Papel:**
 
-Caso esteja lidando com o formato A1, verifique se a opção **``Ajustar ao Papel``** está marcada. Isso garantirá que o desenho seja ajustado automaticamente para se adequar ao tamanho do papel selecionado.
+    - Caso esteja lidando com o formato A1, verifique se a opção **``Ajustar ao Papel``** está marcada. Isso garantirá que o desenho seja ajustado automaticamente para se adequar ao tamanho do papel selecionado.
 
 <figure>
     <img src="/img/autocad/tutoriais/como-plotar/img13.png" alt="Imagem 13" />
