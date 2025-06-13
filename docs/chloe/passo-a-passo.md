@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 🗺️ Passo a Passo
-### Descrição detalhada de cada etapa para gerar corretamente as listas de peças e materiais com a Chloe.
+<h3>Descrição detalhada de cada etapa para gerar corretamente as listas de peças e materiais com a Chloe.</h3>
 
 ## 1 - /organiza_planilha
 O primeiro comando irá organizar sua planilha base. Caso haja algum erro, será necessário verificar e corrigir. Alguns ajustes podem ser feitos diretamente na planilha que a Chloe retornou, enquanto outros podem exigir correções na planilha base.

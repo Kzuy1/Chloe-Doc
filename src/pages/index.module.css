@@ -4,6 +4,8 @@
  */
 
 .heroBanner {
+  width: 100%;
+  text-align: center;
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -20,4 +22,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.heroBannerFlex {
+  /*min-height: 100vh;*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.heroBannerFlex {
+  min-height: calc(100vh - 10rem);
 }
