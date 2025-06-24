@@ -249,7 +249,7 @@ A quantidade multiplicada pelo peso unitário deve resultar no peso total. Por e
 
 ---
 
-## Error  ED17
+## Error ED17
 Bloco de Peca com vírgula na descrição.
 
 O Padrão utilizado para separar número decimais é ponto. A Redecam usa as vírgulas como separadores de atributos, indicando o início e o fim de um atributo. Podendo ser visto na Imagem 18.
